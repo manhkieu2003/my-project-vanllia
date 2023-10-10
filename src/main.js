@@ -20,7 +20,7 @@ const router = new Navigo("/",{linksSelector:"a"});     // biến router đượ
 }
 
 
-// link đến đường dẫn  abcd
+// link đến đường dẫn  
 router.on(      
   {
    "/": ()=>{

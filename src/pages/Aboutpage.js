@@ -5,7 +5,7 @@ const aboutpage ={
     return /* html */`
   <div class="max-w-5xl ">
    <div class="banner ">
-      ${Banner.render()}
+      ${Banner.render()} 
    </div>
 
    <div class ="news">
@@ -16,3 +16,4 @@ const aboutpage ={
 }
   }
   export default aboutpage;
+  // đã thay đổi 
