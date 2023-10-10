@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.news-liter {
+  @apply uppercase text-lg font-bold my-4
+}
+.news-item{
+  @apply border border-gray-400 p-4 hover:border-red-500
+}
